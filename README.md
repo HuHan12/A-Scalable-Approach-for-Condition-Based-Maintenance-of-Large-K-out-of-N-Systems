@@ -1,0 +1,1 @@
+# A-Scalable-Approach-for-Condition-Based-Maintenance-of-Large-K-out-of-N-Systems
