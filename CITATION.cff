@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A-Scalable-Approach-for-Condition-Based-Maintenance-of-Large-K-out-of-N-Systems
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Han
+    family-names: Hu
+    email: hhu98@wisc.edu
+    affiliation: >-
+      Department Industrial and Systems Engineering,
+      University of Wisconsin - Madison
+repository-code: >-
+  https://github.com/HuHan12/A-Scalable-Approach-for-Condition-Based-Maintenance-of-Large-K-out-of-N-Systems
